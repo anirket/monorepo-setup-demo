@@ -1,10 +1,12 @@
-import { Button } from "ui";
+import { Button, Footer, Header } from "ui";
 
 export default function Docs() {
   return (
     <div>
-      <h1>Docs</h1>
+      <Header/>
+      DOCS
       <Button />
+      <Footer/>
     </div>
   );
 }
