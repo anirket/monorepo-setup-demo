@@ -1,9 +1,9 @@
 {
-  "name": "docs",
+  "name": "transtrack",
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --port 4000",
+    "dev": "next dev --port 4001",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
