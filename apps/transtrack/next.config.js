@@ -2,7 +2,8 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
-  assetPrefix: '/transtrack'
+  assetPrefix: '/transtrack',
+  transpilePackages: ["ui"],
 }
 
 module.exports = nextConfig
