@@ -4,7 +4,7 @@ export default function Docs() {
   return (
     <div>
       <Header/>
-      DOCS
+      Platform
       <Button />
       <Footer/>
     </div>

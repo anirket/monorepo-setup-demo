@@ -5,7 +5,7 @@ export default function Docs() {
   return (
     <div>
      <Header/>
-      Portfolio
+      Watchlist
       <Button />
       <Footer/>
     </div>

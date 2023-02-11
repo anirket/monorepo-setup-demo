@@ -4,7 +4,7 @@ export default function Web() {
   return (
     <div>
       <Header/>
-      WEB
+      Social - Homepage
       <Button />
       <Footer />
     </div>
